@@ -7,8 +7,8 @@
   <dependencies>
     <!--<dependency id="VirtoCommerce.Core" version="3.200.4" />-->
   </dependencies>
-  <title>Azure Application Insights</title>
-  <description>Writes logs events and telemetry to Serilog Seq</description>
+  <title>VirtoCommerce SeqLog extension module</title>
+  <description>Writes logs events to Serilog Seq</description>
   <authors>
     <author>VirtoCommerce</author>
   </authors>
