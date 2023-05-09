@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>VirtoCommerce.SeqLog</id>
+  <version>3.200.0</version>
+  <version-tag></version-tag>
+  <platformVersion>3.300.0</platformVersion>
+  <dependencies>
+    <!--<dependency id="VirtoCommerce.Core" version="3.200.4" />-->
+  </dependencies>
+  <title>Azure Application Insights</title>
+  <description>Writes logs events and telemetry to Serilog Seq</description>
+  <authors>
+    <author>VirtoCommerce</author>
+  </authors>
+  <owners>
+    <owner>VirtoCommerce</owner>
+  </owners>
+  <projectUrl>https://github.com/VirtoCommerce/vc-module-seq-log</projectUrl>
+  <iconUrl>Modules/$(VirtoCommerce.SeqLog)/Content/logo.png</iconUrl>
+  <requireLicenseAcceptance>false</requireLicenseAcceptance>
+  <assemblyFile>VirtoCommerce.SeqLog.Web.dll</assemblyFile>
+  <moduleType>VirtoCommerce.SeqLog.Web.Module, VirtoCommerce.SeqLog.Web</moduleType>
+  <releaseNotes>First version.</releaseNotes>
+  <copyright>Copyright © 2023 VirtoCommerce. All rights reserved</copyright>
+  <tags>extension module</tags>
+  <groups>
+    <group>commerce</group>
+  </groups>
+  <useFullTypeNameInSwagger>false</useFullTypeNameInSwagger>
+</module>
