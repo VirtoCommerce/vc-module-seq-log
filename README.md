@@ -21,8 +21,8 @@ The module comes with a [sink](https://github.com/datalust/serilog-sinks-seq) fo
       {
         "Name": "Seq", 
         "Args": {
-            "apiKey": "[your api key]",
-            "serverUrl": "http://localhost:5341"
+          "apiKey": "[your api key]",
+          "serverUrl": "http://localhost:5341"
         }
       }
     ],
