@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <module>
   <id>VirtoCommerce.SeqLog</id>
-  <version>3.200.0</version>
+  <version>3.201.0</version>
   <version-tag></version-tag>
   <platformVersion>3.300.0</platformVersion>
   <dependencies>
