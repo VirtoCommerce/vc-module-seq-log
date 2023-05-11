@@ -15,16 +15,16 @@ The module comes with a [sink](https://github.com/datalust/serilog-sinks-seq) fo
   "Serilog": {
     "Using": [
       ...
-	  "Serilog.Sinks.Seq"
+      "Serilog.Sinks.Seq"
     ],
     "WriteTo": [
-	  {
-		"Name": "Seq", 
-		"Args": {
-			"apiKey": "[your api key]",
-			"serverUrl": "http://localhost:5341"
-		}
-	  }
+      {
+        "Name": "Seq", 
+        "Args": {
+            "apiKey": "[your api key]",
+            "serverUrl": "http://localhost:5341"
+        }
+      }
     ],
     "Enrich": [
       "FromLogContext"
