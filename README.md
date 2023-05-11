@@ -26,9 +26,7 @@ The module comes with a [sink](https://github.com/datalust/serilog-sinks-seq) fo
         }
       }
     ],
-    "Enrich": [
-      "FromLogContext"
-    ]
+    ...
   },
 }
 ```
