@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <module>
   <id>VirtoCommerce.SeqLog</id>
-  <version>3.201.0</version>
-  <version-tag></version-tag>
-  <platformVersion>3.300.0</platformVersion>
+  <version>3.800.0-alpha.12824-net8</version>
+  <version-tag>
+  </version-tag>
+  <platformVersion>3.800.0-alpha.12824-net8</platformVersion>
   <dependencies>
     <!--<dependency id="VirtoCommerce.Core" version="3.200.4" />-->
   </dependencies>
@@ -21,7 +22,7 @@
   <assemblyFile>VirtoCommerce.SeqLog.Web.dll</assemblyFile>
   <moduleType>VirtoCommerce.SeqLog.Web.Module, VirtoCommerce.SeqLog.Web</moduleType>
   <releaseNotes>First version.</releaseNotes>
-  <copyright>Copyright © 2023 VirtoCommerce. All rights reserved</copyright>
+  <copyright>Copyright © 2011-2024 Virto Commerce. All rights reserved</copyright>
   <tags>extension module</tags>
   <groups>
     <group>commerce</group>
