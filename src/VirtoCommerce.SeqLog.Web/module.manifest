@@ -7,7 +7,7 @@
   <platformVersion>3.800.0</platformVersion>
   <dependencies>
   </dependencies>
-  <title>VirtoCommerce SeqLog extension module</title>
+  <title>SeqLog</title>
   <description>Writes logs events to Serilog Seq</description>
   <authors>
     <author>VirtoCommerce</author>
