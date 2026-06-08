@@ -16,7 +16,7 @@
     <owner>VirtoCommerce</owner>
   </owners>
   <projectUrl>https://github.com/VirtoCommerce/vc-module-seq-log</projectUrl>
-  <iconUrl>Modules/$(VirtoCommerce.SeqLog)/Content/logo.png</iconUrl>
+  <iconUrl>Modules/$(VirtoCommerce.SeqLog)/Content/logo.svg</iconUrl>
   <requireLicenseAcceptance>false</requireLicenseAcceptance>
   <assemblyFile>VirtoCommerce.SeqLog.Web.dll</assemblyFile>
   <moduleType>VirtoCommerce.SeqLog.Web.Module, VirtoCommerce.SeqLog.Web</moduleType>
